@@ -27,7 +27,8 @@
 <p><strong>1. Rails Backend Setup</strong></p>
 <ul><li><strong>Create Rails project:</strong> `rails new server --api --database=postgresqlcd server`</li><li><strong>Generate Models:</strong> Create models based on your JSON structure. For example, if one file has product information: `rails generate model Product name:string price:integer description:text image_url:string`</li><li><strong>Migrations:</strong> Create database tables. `rails db:migrate`</li></ul>
 <p><strong>2. React Frontend Setup</strong></p>
-<ul><li><strong>Create React App:</strong> `cd ../  # Change directory to the root project foldernpx create-react-app client`</li></ul>
+<ul><li><strong>Create React App:</strong> `cd ../  # Change directory to the root project folder 
+npx create-react-app client`</li></ul>
 <p><strong>3. Data Transformation</strong></p>
 <ul><li><strong>Write Transformation Script:</strong> Create a Ruby script in your Rails project (e.g., `db/seed_from_json.rb`) to read JSON files, parse them, and create corresponding database records. Consider using libraries like `json` (`require 'json'`) for parsing.</li></ul>
 <p><strong>Example `seed_from_json.rb`</strong></p>
