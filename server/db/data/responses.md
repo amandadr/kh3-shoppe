@@ -282,3 +282,186 @@ end
 
 <p>Refer to the Rails Routing Guide for more details: <a href="https://guides.rubyonrails.org/routing.html" target="_blank" rel="noopener noreferrer">https://guides.rubyonrails.org/routing.html</a></p>
 <br><i style="color: gray; font-size: 75%; white-space: normal">Word count: 139</i></p></div>
+
+#6
+
+Absolutely, let's integrate React Query to fetch your Kingdom Hearts data! Here's a breakdown of how to set up the data fetching, including suggestions for helpers and hooks.
+
+**1. Install React Query**
+
+```bash
+npm install @tanstack/react-query
+```
+
+**2. API Helpers**
+
+Let's create a file for API helper functions to keep things organized.
+
+```javascript
+// src/helpers/apiHelpers.js
+const baseUrl = "http://localhost:3001"; // Replace with your Rails backend API base URL
+
+export const fetchAccessories = async () => {
+  const response = await fetch(`${baseUrl}/accessories`);
+  return response.json();
+};
+
+export const fetchArmor = async () => {
+  // ... similar to fetchAccessories
+};
+
+// ... add similar functions for items, keyblades, etc.
+```
+
+**3. Custom Hooks**
+
+Create custom hooks for each resource using React Query's `useQuery` hook.
+
+```javascript
+// src/hooks/useAccessories.js
+import { useQuery } from "@tanstack/react-query";
+import { fetchAccessories } from "../helpers/apiHelpers";
+
+export const useAccessories = () => {
+  return useQuery(["accessories"], fetchAccessories);
+};
+
+// ... similarly create useArmor, useItems, etc.
+```
+
+**4. HomeRoute.jsx**
+
+Use the custom hooks to fetch your data.
+
+```javascript
+// src/components/HomeRoute.jsx
+import React from "react";
+import {
+  useAccessories,
+  useArmor,
+  useItems,
+  useKeyblades,
+  useShields,
+  useStaffs,
+} from "../hooks";
+
+const HomeRoute = () => {
+  const { isLoading: accessoriesLoading, data: accessories } = useAccessories();
+  const { isLoading: armorLoading, data: armor } = useArmor();
+  // ... Similarly fetch other resources
+
+  if (accessoriesLoading || armorLoading /* ... */) {
+    return <div>Loading...</div>;
+  }
+
+  return (
+    <div>
+      <h1>Kingdom Hearts Shop</h1>
+      <h2>Accessories</h2>
+      <ul>
+        {accessories.map((accessory) => (
+          <li key={accessory.id}>{accessory.name}</li>
+        ))}
+      </ul>
+      {/* ... display other resources similarly */}
+    </div>
+  );
+};
+
+export default HomeRoute;
+```
+
+**Explanation**
+
+- **Separate Concerns:** We created API helpers for data fetching and custom hooks using `useQuery` to encapsulate data loading logic.
+- **Loading States:** React Query provides `isLoading` flags to handle loading states gracefully.
+- **Error Handling:** Consider adding error handling within your hooks or components using React Query's `isError` flag.
+
+**Remember:**
+
+- **Adapt the API URLs** to match your Rails backend.
+- **Expand your components** to display the data in a visually appealing way.
+
+Let me know if you have any specific scenarios or components you'd like to structure with React Query!
+
+#7
+
+Absolutely! You're right, you need to wrap your `HomeRoute` component (and eventually other components that use React Query) with the `QueryClientProvider` to make the QueryClient available to all its child components.
+
+Here are two common ways to do this:
+
+**1. Wrap `HomeRoute` in `App.jsx`:**
+
+```javascript
+// App.jsx
+import React from "react";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import HomeRoute from "./components/HomeRoute";
+
+const queryClient = new QueryClient();
+
+function App() {
+  return (
+    <QueryClientProvider client={queryClient}>
+      <HomeRoute />
+    </QueryClientProvider>
+  );
+}
+
+export default App;
+```
+
+**2. Wrap the whole app in `index.jsx`:**
+
+```javascript
+// index.jsx
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import App from './App';
+
+const queryClient = new QueryClient();
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <QueryClientProvider client={queryClient}>
+      <App />
+    </QueryClientProvider>
+  <React.StrictMode>
+);
+```
+
+Choose the method that best suits your app's structure. Once you've added `QueryClientProvider`, the error should be resolved, and your data fetching should work as expected.
+
+#8
+
+Ah, you're encountering a known change in how arguments are passed to `useQuery` in @tanstack/react-query v5. Instead of passing the query key and fetch function as separate arguments, you now need to provide them as an object within the first argument.
+
+Here's the corrected `useAccessories.js` (and how you should adjust the other custom hooks):
+
+```javascript
+// src/hooks/useAccessories.js
+import { useQuery } from "@tanstack/react-query";
+import { fetchAccessories } from "../helpers/apiHelpers";
+
+export const useAccessories = () => {
+  return useQuery({
+    queryKey: ["accessories"], // Key for caching and refetching
+    queryFn: fetchAccessories, // Function that returns a promise with the data
+  });
+};
+```
+
+**Key changes:**
+
+- **No more separate arguments:** `fetchAccessories` is now inside the `queryFn` property of the object.
+- **`queryKey` is an array:** This allows for more complex cache keys if needed.
+
+**Update the Other Hooks**
+
+Similarly adjust the useArmor, useItems, etc., hooks to use the same object format.
+
+With this change, the error should be resolved, and your data fetching should work correctly!
+
+#9
