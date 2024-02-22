@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Kingdom Key",
+    "strength": 4,
+    "magic": 3,
+    "abilities": [
+      "Treasure magnet (initial ability)",
+      "Formchange Extender (level 4)"
+    ],
+    "location": ["Initially equipped"]
+  },
+  {
+    "name": "Hero's Origin",
+    "strength": 5,
+    "magic": 2,
+    "abilities": [
+      "Defender (initial ability)",
+      "Formchange Extender (level 4)"
+    ],
+    "location": ["Finish the story in Olympus"]
+  },
+  {
+    "name": "Shooting Star",
+    "strength": 3,
+    "magic": 5,
+    "abilities": [
+      "magic Treasure magnet (initial ability)",
+      "Formchange Extender (level 4)"
+    ],
+    "location": ["Finish the story in Twilight Town"]
+  },
+  {
+    "name": "Favorite Deputy",
+    "strength": 6,
+    "magic": 3,
+    "abilities": [
+      "Lucky strike (initial ability)",
+      "Formchange Extender (level 4)"
+    ],
+    "location": ["Finish the story in Toy Box"]
+  },
+  {
+    "name": "Ever After",
+    "strength": 2,
+    "magic": 7,
+    "abilities": [
+      "Leaf Bracer (initial ability)",
+      "Aeroza (level 4)",
+      "Aero Boost (level 10)"
+    ],
+    "location": ["Finish the story in Kingdom of Corona"]
+  },
+  {
+    "name": "Happy Gear",
+    "strength": 7,
+    "magic": 3,
+    "abilities": [
+      "Focus Converter (initial ability)",
+      "Full MP Blast (level 6)"
+    ],
+    "location": ["Finish the story in Monstropolis"]
+  },
+  {
+    "name": "Crystal Snow",
+    "strength": 4,
+    "magic": 7,
+    "abilities": [
+      "Freeze Protection (initial ability)",
+      "Blizzard Boost (level 9)"
+    ],
+    "location": ["Finish the story in Arendelle"]
+  },
+  {
+    "name": "Hunny Spout",
+    "strength": 6,
+    "magic": 5,
+    "abilities": [
+      "Harvester (initial ability)",
+      "Formchange Extender (level 6)"
+    ],
+    "location": ["Finish the story in Hundred Acre Wood"]
+  },
+  {
+    "name": "Nano Gear",
+    "strength": 7,
+    "magic": 5,
+    "abilities": [
+      "Stun Protection (initial ability)",
+      "Formchange Extender (level 6)"
+    ],
+    "location": ["Finish the story in San Fransokyo"]
+  },
+  {
+    "name": "Wheel of Fate",
+    "strength": 8,
+    "magic": 5,
+    "abilities": ["Waterza (initial ability)", "Formchange Extender (level 6)"],
+    "location": ["Finish the story in The Caribbean"]
+  },
+  {
+    "name": "Starlight",
+    "strength": 4,
+    "magic": 4,
+    "abilities": [
+      "MP Haste (initial ability)",
+      "Formchange Extender (level 4)"
+    ],
+    "location": ["Defeat the Demon Tide in The Keyblade Graveyard"]
+  },
+  {
+    "name": "Grand Chef",
+    "strength": 5,
+    "magic": 7,
+    "abilities": [
+      "Wizard's Ruse (initial ability)",
+      "Chef Extraordinaire (level 3)"
+    ],
+    "location": ["Reach the 5-Star tier with the Bistro"]
+  },
+  {
+    "name": "Classic Tone",
+    "strength": 6,
+    "magic": 9,
+    "abilities": [
+      "MP Haste (initial ability)",
+      "MP Haste (level 6)",
+      "MP Haste (level 9)"
+    ],
+    "location": ["Register a score on every Classic Kingdom game"]
+  },
+  {
+    "name": "Ultima Weapon",
+    "strength": 13,
+    "magic": 13,
+    "abilities": [
+      "Combo Boost (initial ability)",
+      "Air Combo Boost (initial ability)",
+      "Situation Boost (initial ability)"
+    ],
+    "location": ["Synthesize"]
+  },
+  {
+    "name": "Oblivion",
+    "strength": 8,
+    "magic": 6,
+    "abilities": [
+      "HP Converter (initial ability)",
+      "Situation Boost (level 4)",
+      "Formchange Extender (level 9)"
+    ],
+    "location": ["Trade the Proof of Times Past Item in at a Moogle Shop"]
+  },
+  {
+    "name": "Oathkeeper",
+    "strength": 7,
+    "magic": 7,
+    "abilities": [
+      "MP Converter (initial ability)",
+      "Situation Boost (level 4)",
+      "Formchange Extender (level 9)"
+    ],
+    "location": ["Trade the Proof of Promises Item in at a Moogle Shop"]
+  },
+  {
+    "name": "Midnight Blue",
+    "strength": 4,
+    "magic": 4,
+    "abilities": [
+      "Blizzard Boost (initial ability)",
+      "Blizzaza (initial ability)",
+      "Formchange Extender (level 4)"
+    ],
+    "location": ["PS Store pre-order bonus"]
+  },
+  {
+    "name": "Phantom Green",
+    "strength": 4,
+    "magic": 4,
+    "abilities": [
+      "Thunder Boost (initial ability)",
+      "Thundaza (initial ability)",
+      "Formchange Extender (level 4)"
+    ],
+    "location": ["Microsoft Store pre-order bonus"]
+  },
+  {
+    "name": "Dawn Till Dusk",
+    "strength": 4,
+    "magic": 4,
+    "abilities": [
+      "Fire Boost (initial ability)",
+      "Firaza (initial ability)",
+      "Formchange Extender (level 4)"
+    ],
+    "location": ["Amazon pre-order bonus"]
+  }
+]

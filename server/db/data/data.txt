@@ -1,0 +1,2239 @@
+
+
+Original page: https://gamefaqs.gamespot.com/ps4/718920-kingdom-hearts-iii/faqs/76812/items-and-equipment#2-weapons
+-------------------
+
+Menu
+
+     Home
+     Boards
+     News
+     Q&amp;A
+     Community
+     Contribute
+     Games
+     3DS
+     Android
+     Board/Card
+     iOS
+     PC
+     PlayStation&nbsp;3
+     PlayStation&nbsp;4
+     PlayStation&nbsp;5
+     Switch
+     Vita
+     Xbox 360
+     Xbox One
+     Xbox Series
+     More Systems
+PCPS4PS5SwitchXbox OneXbox SeriesMore&nbsp;Systems   
+     3DS
+     Android
+     Board / Card
+     DS
+     Game Boy Advance
+     GameCube
+     iOS
+     Nintendo 64
+     PlayStation
+     PlayStation 2
+     PlayStation 3
+     PSP
+     Super Nintendo
+     Vita
+     Wii
+     Wii U
+     Xbox 360
+     See All 143...
+  Log In Sign Up 
+GameFAQs
+
+BoardsNewsQ&amp;ACommunityContributeGames  
+ITEMS AND EQUIPMENT
+KINGDOM HEARTS III &nbsp;—GUIDE AND WALKTHROUGH (PS4)
+
+Log in to add games to your lists 
+Notify me about new:
+  Guides
+  Cheats
+  Reviews
+  Questions
+  News
+  Board Topics
+  Board Messages 
+Add this game to my:
+  Favorite Games
+  Favorite Boards
+Guides
+Q&amp;A
+Board
+More
+     Home
+     Summary
+     Release Data
+     Game Credits
+     Also Playing
+     Collection Stats
+     Game Trivia
+     Guides
+     Q&amp;A
+     Cheats
+     Cheats
+     Trophies
+     Reviews
+     Media
+     Boxes
+     Images
+     Videos
+     News
+     Board
+  GameFAQs    
+ What do you need help on? Cancel X   
+  &nbsp;&nbsp;Prev   Next&nbsp;&nbsp;  
+ Close X Guide and Walkthrough (PS4)
+by ElectroSpecter
+Table of Contents 
+
+BOOKMARK 
+ Jump to: 
+ Would you recommend this Guide? Yes No Hide   
+ Send Skip Hide   
+  &nbsp;&nbsp;Message Sent   
+GUIDE AND WALKTHROUGH (PS4) BY ELECTROSPECTER
+VERSION: 3.01 | UPDATED: 05/30/2020 
+  FAQ of the Month Winner: March 2019 |  Official GameFAQs Guide 
+Official GameFAQs Guide
+        Previous: Stats &amp; Abilities
+        Table of Contents
+      Next: Trophies / Achievements  
+TABLE OF CONTENTS
+     Introduction
+     Walkthrough
+     Opening
+     Olympus
+     Twilight Town
+     Olympus Wrap-Up
+     Toy Box
+     Kingdom of Corona
+     Monstropolis
+     100 Acre Wood
+     Arendelle
+     The Caribbean
+     San Fransokyo
+     The Keyblade Graveyard
+     Post-Game
+     Re Mind DLC
+     Premium Menus
+     Re Mind
+     LIMITCUT EPISODE
+     SECRET EPISODE
+     Side Quests and Mini Games
+     Moogle Shop
+     Moogle Workshop
+     Cooking and Ingredients
+     Lucky Emblems
+     Treasures
+     Gummi Ship
+     Gummiphone
+     Bestiary
+     Stats &amp; Abilities
+     Items and Equipment
+     Trophies / Achievements
+     Version History
+     Acknowledgements and Closing
+ITEMS AND EQUIPMENT
+     Items
+     Weapons
+     Armor
+     Accessories
+     Ingredients / Materials
+     Key Items
+            -
+1) ITEMS
+See the Moogle Shop section for information on when an item becomes
+available in the shop. See the Moogle Workshop section for information
+on when an item becomes available to synthesize.
+    NAME
+    DESCRIPTION
+    TREASURE CHESTS
+    OTHER LOCATIONS
+    PRICE
+    SYNTH
+    Kupo Coin
+    A special coin that protects Sora from the worst. If your HP drops
+to 0, it will fully restore health a single time.
+
+    400
+    N
+    Potion
+    Restores 80 HP to one teammate. (Equippable)
+    OLYMPUS: 3, 7, 14, 21, 23, 27, 32
+Toy Box: 7, 22
+Corona: 6, 11
+    OLYMPUS: Prize for saving citizens, first visit (2 total)
+    40
+    N
+    Hi-Potion
+    Restores 160 HP to one teammate. (Equippable)
+    TWILIGHT TOWN: 5
+CORONA: 28
+MONSTROPOLIS: 2, 7, 13
+ARENDELLE: 16
+THE CARIBBEAN: 49
+    OLYMPUS: Prize for saving citizens, first visit (1 total)
+    100
+    N
+    Mega-Potion
+    Restores 160 HP to your whole team. (Equippable)
+    OLYMPUS: 17
+THE CARIBBEAN: 22, 55
+SAN FRANSOKYO: 11, 31
+KEYBLADE GRAVEYARD: 5
+    LUCKY EMBLEM REWARD: 3 found
+
+    Y
+    Ether
+    Restores 100 MP to one teammate. If you are recharging MP, this
+restores half the gauge. (Equippable)
+    OLYMPUS: 16, 19
+TWILIGHT TOWN: 8
+TOY BOX: 9, 12
+CORONA: 18, 25
+MONSTROPOLIS: 18
+THE CARIBBEAN: 56
+    OLYMPUS: Prize for saving citizens, first visit (1 total)
+TWILIGHT TOWN: Potential Postcard Prize
+COLLECTOR'S GOAL: Obtain a synthesis material
+    200
+    Y
+    Hi-Ether
+    Fully restores MP to one teammate. If you are recharging MP, this
+fully restores the gauge. (Equippable)
+    OLYMPUS: 12
+TOY BOX: 18
+CORONA: 21
+THE CARIBBEAN: 53
+SAN FRANSOKYO: 17
+
+    800
+    Y
+    Mega-Ether
+    Fully restores MP to your whole team. (Equippable)
+    MONSTROPOLIS: 20
+ARENDELLE: 21
+THE CARIBBEAN: 8, 50
+SAN FRANSOKYO: 9, 18
+KEYBLADE GRAVEYARD: 6
+
+    Y
+    Refocuser
+    Restores 40% of the Focus Gauge. (Equippable)
+    OLYMPUS: 26, 30
+TWILIGHT TOWN: 6
+TOY BOX: 11
+CORONA: 8
+MONSTROPOLIS: 4
+ARENDELLE: 17
+    TWILIGHT TOWN: Potential Postcard Prize
+    500
+    Y
+    Hi-Refocuser
+    Fully restores the Focus Gauge. (Equippable)
+    TOY BOX: 27
+MONSTROPOLIS: 22
+THE CARIBBEAN: 46
+SAN FRANSOKYO: 4, 24
+
+    Y
+    Panacea
+    Removes all negative status effects from one teammate and provides
+temporary immunity. (Equippable)
+    OLYMPUS: 4
+CORONA: 5
+THE CARIBBEAN: 21
+    HUNDRED ACRE WOOD: Prize for lowest rank in any of the mini games
+    20
+    N
+    Elixir
+    Fully restores HP/MP/Focus to one teammate and removes all negative
+status effects. (Equippable)
+    OLYMPUS: 31
+TOY BOX: 2
+ARENDELLE: 4
+THE CARIBBEAN: 54
+SAN FRANSOKYO: 13
+    BISTRO: Prize for reaching a 3-star rating at the Bistro
+    4,000
+    Y
+    Megalixir
+    Fully restores HP/MP/Focus to your whole team and removes all
+negative status effects. (Equippable)
+    MONSTROPOLIS: 21
+KEYBLADE GRAVEYARD: 4
+    TOY BOX: Battlegate 4 prize (1 time only)
+ARENDELLE: Return after this world's story and rebuild Olaf again in
+the Valley of Ice
+
+    Y
+    Tent
+    Fully restores HP/MP/Focus to your whole team. Use this item from
+the menu.
+    THE CARIBBEAN: 52
+    TWILIGHT TOWN: Potential Postcard Prize
+    40
+    N
+    Strength Boost
+    Permanently raises Strength by 1. Use this item from the menu.
+    TOY BOX: 8
+SAN FRANSOKYO: 29
+    LUCKY EMBLEM REWARD: 40 found
+TWILIGHT TOWN: Potential Postcard Prize (1 time only)
+VERUM REX: A-rank (first time only)
+FLASH TRACER (FRED COURSE): A-rank (first time only)
+REWARD: Data Battle IX
+
+    Y
+    Magic Boost
+    Permanently raises Magic by 1. Use this item from the menu.
+    CORONA: 23
+SAN FRANSOKYO: 16, 28
+    LUCKY EMBLEM REWARD: 20 found
+TWILIGHT TOWN: Potential Postcard Prize (1 time only)
+FESTIVAL DANCE: A-rank (first time only)
+Flash Tracer (Gogo Course): A-rank (first time only)
+REWARD: Data Battle VI
+
+    Y
+    Defense Boost
+    Permanently raises Defense by 1. Use this item from the menu.
+    TWILIGHT TOWN: 10
+    LUCKY EMBLEM REWARD: 55 found
+TWILIGHT TOWN: Potential Postcard Prize (1 time only)
+FROZEN SLIDER: A-rank (first time only)
+REWARD: Data Battle II
+
+    Y
+    AP Boost
+    Permanently raises Maximum AP by 1. Use this item from the menu.
+    OLYMPUS: 8, 10, 13, 22
+TWILIGHT TOWN: 7
+CORONA: 20
+ARENDELLE: 20
+SAN FRANSOKYO: 5, 8, 15, 20, 33
+    LUCKY EMBLEM REWARD: 1 found
+TWILIGHT TOWN: Potential Postcard Prize
+REWARD: Data Battle IV
+REWARD: Data Battle XI
+
+    Y
+    Mushroom Terrine
+    A starter that temporarily raises the whole team's Max HP/MP.
+
+    Cook at the Bistro
+    100
+    N
+    Mushroom Terrine+
+    A starter that temporarily raises the whole team's Max HP/MP.
+
+    Cook at the Bistro
+    200
+    N
+    Scallop Poêlé
+    A starter that temporarily raises the whole team's Max HP/MP.
+
+    Cook at the Bistro
+    140
+    N
+    Scallop Poêlé+
+    A starter that temporarily raises the whole team's Max HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Ratatouille
+    A starter that temporarily raises the whole team's Max HP/MP.
+
+    Cook at the Bistro
+    180
+    N
+    Ratatouille+
+    A starter that temporarily raises the whole team's Max HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Lobster Mousse
+    A starter that temporarily raises the whole team's Defense and Max
+HP/MP.
+
+    Cook at the Bistro
+    340
+    N
+    Lobster Mousse+
+    A starter that temporarily raises the whole team's Defense and Max
+HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Caprese Salad
+    A starter that temporarily raises the whole team's Magic and Max MP.
+
+    Cook at the Bistro
+
+    N
+    Caprese Salad+
+    A starter that temporarily raises the whole team's Magic and Max
+HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Consommé
+    A starter that temporarily raises the whole team's Max HP.
+
+    Cook at the Bistro
+    60
+    N
+    Consommé+
+    A starter that temporarily raises the whole team's Max HP/MP.
+
+    Cook at the Bistro
+    120
+    N
+    Pumpkin Velouté
+    A starter that temporarily raises the whole team's Max HP/MP.
+
+    Cook at the Bistro
+    80
+    N
+    Pumpkin Velouté+
+    A starter that temporarily raises the whole team's Max HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Carrot Potage
+    A starter that temporarily raises the whole team's Max HP/MP.
+
+    Cook at the Bistro
+    140
+    N
+    Carrot Potage+
+    A starter that temporarily raises the whole team's Max HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Crab Bisque
+    A starter that temporarily raises the whole team's Magic and Max MP.
+
+    Cook at the Bistro
+    240
+    N
+    Crab Bisque+
+    A starter that temporarily raises the whole team's Magic and Max
+HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Cold Tomato Soup
+    A starter that temporarily raises the whole team's Magic and Max
+HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Cold Tomato Soup+
+    A starter that temporarily raises the whole team's Magic and Max
+HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Sole Meunière
+    A starter that temporarily raises the whole team's Defense and Max
+HP.
+
+    Cook at the Bistro
+    120
+    N
+    Sole Meunière+
+    A starter that temporarily raises the whole team's Defense and Max
+HP/MP.
+
+    Cook at the Bistro
+    240
+    N
+    Eel Matelote
+    A starter that temporarily raises the whole team's Defense and Max
+HP/MP.
+
+    Cook at the Bistro
+    160
+    N
+    Eel Matelote+
+    A starter that temporarily raises the whole team's Defense and Max
+HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Bouillabaisse
+    A starter that temporarily raises the whole team's Defense and Max
+HP/MP.
+
+    Cook at the Bistro
+    300
+    N
+    Bouillabaisse+
+    A starter that temporarily raises the whole team's Defense and Max
+HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Sea Bass en Papillote
+    A starter that temporarily raises the whole team's Defense and Max
+HP/MP.
+
+    Cook at the Bistro
+    300
+    N
+    Sea Bass en Papillote+
+    A starter that temporarily raises the whole team's Defense and Max
+HP/MP.
+    CORONA: 26
+    Cook at the Bistro
+
+    N
+    Seafood Tartare
+    A starter that temporarily raises the whole team's Strength,
+Defense, and Max HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Seafood Tartare+
+    A starter that temporarily raises the whole team's Strength,
+Defense, and Max HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Sea Bass Poêlé
+    A starter that temporarily raises the whole team's Strength,
+Defense, and Max HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Sea Bass Poêlé+
+    A starter that temporarily raises the whole team's Strength,
+Defense, and Max HP/MP.
+
+    Cook at the Bistro
+
+    N
+    Sweetbread Poêlé
+    A starter that temporarily raises the whole team's Strength and Max
+HP.
+
+    Cook at the Bistro
+    120
+    N
+    Sweetbread Poêlé+
+    A starter that temporarily raises the whole team's Strength and Max
+HP.
+
+    Cook at the Bistro
+    240
+    N
+    Beef Sauté
+    A starter that temporarily raises the whole team's Strength and Max
+HP.
+
+    Cook at the Bistro
+    140
+    N
+    Beef Sauté+
+    A starter that temporarily raises the whole team's Strength and Max
+HP.
+
+    Cook at the Bistro
+
+    N
+    Beef Bourguignon
+    A starter that temporarily raises the whole team's Strength and Max
+HP.
+
+    Cook at the Bistro
+    160
+    N
+    Beef Bourguignon+
+    A starter that temporarily raises the whole team's Strength and Max
+HP.
+
+    Cook at the Bistro
+
+    N
+    Stuffed Quail
+    A starter that temporarily raises the whole team's Strength,
+Defense, and Max HP.
+
+    Cook at the Bistro
+    400
+    N
+    Stuffed Quail+
+    A starter that temporarily raises the whole team's Strength,
+Defense, and Max HP.
+
+    Cook at the Bistro
+
+    N
+    Filet Mignon Poêlé
+    A starter that temporarily raises the whole team's Strength,
+Defense, and Max HP.
+
+    Cook at the Bistro
+
+    N
+    Filet Mignon Poêlé+
+    A starter that temporarily raises the whole team's Strength,
+Defense, and Max HP.
+
+    Cook at the Bistro
+
+    N
+    Chocolate Mousse
+    A starter that temporarily raises the whole team's Magic and Max MP.
+
+    Cook at the Bistro
+    120
+    N
+    Chocolate Mousse+
+    A starter that temporarily raises the whole team's Magic and Max MP.
+
+    Cook at the Bistro
+    240
+    N
+    Fresh Fruit Compote
+    A starter that temporarily raises the whole team's Magic and Max MP.
+
+    Cook at the Bistro
+    180
+    N
+    Fresh Fruit Compote+
+    A starter that temporarily raises the whole team's Magic and Max MP.
+
+    Cook at the Bistro
+
+    N
+    Crêpes Suzette
+    A starter that temporarily raises the whole team's Magic and Max MP.
+
+    Cook at the Bistro
+    280
+    N
+    Crêpes Suzette+
+    A starter that temporarily raises the whole team's Magic and Max MP.
+
+    Cook at the Bistro
+
+    N
+    Berries au Fromage
+    A starter that temporarily raises the whole team's Magic and Max MP.
+
+    Cook at the Bistro
+    320
+    N
+    Berries au Fromage+
+    A starter that temporarily raises the whole team's Magic and Max MP.
+
+    Cook at the Bistro
+
+    N
+    Warm Banana Soufflé
+    A starter that temporarily raises the whole team's Strength, Magic,
+and Max MP.
+
+    Cook at the Bistro
+
+    N
+    Warm Banana Soufflé+
+    A starter that temporarily raises the whole team's Strength, Magic,
+and Max MP.
+
+    Cook at the Bistro
+
+    N
+    Fruit Gelée
+    A starter that temporarily raises the whole team's Strength, Magic,
+and Max MP.
+
+    Cook at the Bistro
+
+    N
+    Fruit Gelée+
+    A starter that temporarily raises the whole team's Strength, Magic,
+and Max MP.
+
+    Cook at the Bistro
+
+    N
+    Tarte aux Fruits
+    A starter that temporarily raises the whole team's Strength, Magic,
+and Max MP.
+
+    Cook at the Bistro
+
+    N
+    Tarte aux Fruits+
+    A starter that temporarily raises the whole team's Strength, Magic,
+and Max MP.
+
+    Cook at the Bistro
+
+    N
+            -
+2) WEAPONS
+The stats listed for the keyblades are the base stats, before any
+upgrading at the Forge. For full stats, see the Keyblade Forge section
+of the Moogle Workshop.
+    KEYBLADES
+    NAME
+    STR
+    MAG
+    ABILITIES
+    LOCATION
+    Kingdom Key
+    4
+    3
+    Treasure Magnet (initial ability)
+Formchange Extender (level 4)
+    Initially equipped
+    Hero's Origin
+    5
+    2
+    Defender (initial ability)
+Formchange Extender (level 4)
+    Finish the story in Olympus
+    Shooting Star
+    3
+    5
+    Magic Treasure Magnet (initial ability)
+Formchange Extender (level 4)
+    Finish the story in Twilight Town
+    Favorite Deputy
+    6
+    3
+    Lucky Strike (initial ability)
+Formchange Extender (level 4)
+    Finish the story in Toy Box
+    Ever After
+    2
+    7
+    Leaf Bracer (initial ability)
+Aeroza (level 4)
+Aero Boost (level 10)
+    Finish the story in Kingdom of Corona
+    Happy Gear
+    7
+    3
+    Focus Converter (initial ability)
+Full MP Blast (level 6)
+    Finish the story in Monstropolis
+    Crystal Snow
+    4
+    7
+    Freeze Protection (initial ability)
+Blizzard Boost (level 9)
+    Finish the story in Arendelle
+    Hunny Spout
+    6
+    5
+    Harvester (initial ability)
+Formchange Extender (level 6)
+    Finish the story in Hundred Acre Wood
+    Nano Gear
+    7
+    5
+    Stun Protection (initial ability)
+Formchange Extender (level 6)
+    Finish the story in San Fransokyo
+    Wheel of Fate
+    8
+    5
+    Waterza (initial ability)
+Formchange Extender (level 6)
+    Finish the story in The Caribbean
+    Starlight
+    4
+    4
+    MP Haste (initial ability)
+Formchange Extender (level 4)
+    Defeat the Demon Tide in The Keyblade Graveyard
+    Grand Chef
+    5
+    7
+    Wizard's Ruse (initial ability)
+Chef Extraordinaire (level 3)
+    Reach the 5-Star tier with the Bistro 
+    Classic Tone
+    6
+    9
+    MP Haste (initial ability)
+MP Haste (level 6)
+MP Haste (level 9)
+    Register a score on every Classic Kingdom game
+    Ultima Weapon
+    13
+    13
+    Combo Boost (initial ability)
+Air Combo Boost (initial ability)
+Situation Boost (initial ability)
+    Synthesize
+    Oblivion
+    8
+    6
+    HP Converter (initial ability)
+Situation Boost (level 4)
+Formchange Extender (level 9)
+    Trade the Proof of Times Past Item in at a Moogle Shop
+Oathkeeper
+    7
+    7
+    MP Converter (initial ability)
+Situation Boost (level 4)
+Formchange Extender (level 9)
+    Trade the Proof of Promises Item in at a Moogle Shop
+Midnight Blue
+    4
+    4
+    Blizzard Boost (initial ability)
+Blizzaza (initial ability)
+Formchange Extender (level 4)
+    PS Store pre-order bonus
+    Phantom Green
+    4
+    4
+    Thunder Boost (initial ability)
+Thundaza (initial ability)
+Formchange Extender (level 4)
+    Microsoft Store pre-order bonus
+    Dawn Till Dusk
+    4
+    4
+    Fire Boost (initial ability)
+Firaza (initial ability)
+Formchange Extender (level 4)
+    Amazon pre-order bonus
+
+
+    STAVES
+    NAME
+    STR
+    MAG
+    ABILITIES
+    LOCATION
+    PRICE
+    Mage's Staff
+    3
+    4
+
+    Initially equipped
+
+    Mage's Staff+
+    3
+    4
+    Fire Boost
+    Toy Box, chest #15
+
+    Warhammer
+    5
+    4
+
+    400
+    Warhammer+
+    5
+    4
+    Item Boost
+    Synthesize
+
+    Magician's Wand
+    4
+    5
+
+    600
+    Magician's Wand+
+    4
+    6
+    Blizzard Boost
+    Arendelle, chest #23
+
+    Nirvana
+    4
+    7
+
+    800
+    Nirvana+
+    4
+    8
+    Aero Boost
+    San Fransokyo, chest #19
+
+    Astrolabe
+    6
+    7
+    Thunder Boost
+
+    1,200
+    Astrolabe+
+    7
+    7
+    Thunder Boost
+Full MP Blast
+    Synthesize
+
+    Heartless Maul
+    8
+    6
+    Hyper Healing
+Heartless Buster
+    Synthesize
+
+    Heartless Maul+
+    8
+    6
+    MP Thrift
+Heartless Buster
+    Synthesize
+
+    Save the Queen
+    6
+    9
+    Damage Syphon
+MP Hastera
+    Synthesize
+
+    Save the Queen+
+    6
+    9
+    Damage Syphon
+MP Hastega
+    Synthesize
+
+
+
+Goofy's shields also act somewhat as armor, bestowing resistances in
+come cases.
+F - Fire
+B - Blizzard
+T - Thunder
+W - Water
+A - Aero
+D - Dark
+
+    SHIELDS
+    NAME
+    STR
+    F
+    B
+    T
+    W
+    A
+    D
+    ABILITIES
+    LOCATION
+    PRICE
+    Knight's Shield
+    4
+    +5%
+
+    Initially equipped
+
+    Knight's Shield+
+    4
+    +20%
+
+    Fire Syphon
+Burn Protection
+    Secluded Forge mini game in Olympus
+
+    Clockwork Shield
+    5
+
+    +5%
+
+    400
+    Clockwork Shield+
+    5
+
+    +20%
+
+    Aero Syphon
+Sneeze Protection
+    Synthesize
+
+    Star Shield
+    6
+
+    +5%
+
+    600
+    Star Shield+
+    6
+
+    +20%
+
+    Thunder Syphon
+Electric Protection
+    Monstropolis, chest #6
+
+    Aegis Shield
+    7
+
+    +5%
+
+    800
+    Aegis Shield+
+    7
+
+    +20%
+
+    Blizzard Syphon
+Freeze Protection
+    Synthesize
+
+    Storm Anchor
+    8
+
+    +5%
+
+    Water Syphon
+
+    1,200
+    Storm Anchor+
+    8
+
+    +20%
+
+    Water Syphon
+Cloud Protection
+    The Caribbean, chest #34
+
+    Nobody Guard
+    7
+
+    Nobody Buster
+    Synthesize
+
+    Nobody Guard+
+    8
+
+    Hyper Healing
+Nobody Buster
+    Synthesize
+
+    Save the King
+    9
+
+    +5%
+    Damage Syphon
+    Synthesize
+
+    Save the King+
+    9
+
+    +20%
+    Damage Syphon
+Stun Protection
+    Synthesize
+
+            -
+3) ARMOR
+See the Moogle Shop section for information on when an item becomes
+available in the shop. See the Moogle Workshop section for information
+on when an item becomes available to synthesize.
+Resistance key:
+F - Fire
+B - Blizzard
+T - Thunder
+W - Water
+A - Aero
+D - Dark
+    NAME
+    DEF
+    F
+    B
+    T
+    W
+    A
+    D
+    ABILITIES
+    LOCATION
+    PRICE
+    SYNTH
+    Shield Belt
+    1
+
+    Olympus, chest #20
+    200
+    N
+    Defense Belt
+    2
+
+    Corona, chest #15
+    600
+    N
+    Guardian's Belt
+    3
+
+    Arendelle, chest #5
+    1,000
+    N
+    Power Band
+    4
+
+    1,400
+    N
+    Buster Band
+    5
+
+    San Fransokyo, chest #27
+
+    Y
+    Buster Band+
+    5
+    +10%
+    +10%
+    +10%
+    +10%
+    +10%
+
+    Lucky Emblem reward, 35 found
+
+    Y
+    Cosmic Belt
+    6
+
+    Keyblade Graveyard, chest #2
+
+    N
+    Cosmic Belt+
+    6
+    +10%
+    +10%
+    +10%
+    +10%
+    +10%
+    +10%
+
+    Lucky Emblem reward, 65 found
+Battlegate 2 reward (once only)
+
+    N
+    Fire Bangle
+    2
+    +20%
+
+    Fire Syphon
+    Toy Box, chest #17
+    1,000
+    Y
+    Fira Bangle
+    3
+    +25%
+
+    Fire Syphon
+    Monstropolis, chest #16
+
+    Y
+    Firaga Bangle
+    4
+    +30%
+
+    Fire Syphon
+    The Caribbean, chest #42
+
+    Y
+    Firaza Bangle
+    5
+    +35%
+
+    Fire Syphon
+
+    Y
+    Fire Chain
+    1
+    +50%
+
+    Damage Syphon
+
+    Y
+    Blizzard Choker
+    2
+
+    +20%
+
+    Blizzard Syphon
+    Arendelle, chest #2
+    1,000
+    Y
+    Blizzara Choker
+    3
+
+    +25%
+
+    Blizzard Syphon
+    Arendelle, chest #19
+
+    Y
+    Blizzaga Choker
+    4
+
+    +30%
+
+    Blizzard Syphon
+    The Caribbean, chest #43
+
+    Y
+    Blizzaza Choker
+    5
+
+    +35%
+
+    Blizzard Syphon
+
+    Y
+    Blizzard Chain
+    1
+
+    +50%
+
+    Damage Syphon
+
+    Y
+    Thunder Trinket
+    2
+
+    +20%
+
+    Thunder Syphon
+    Toy Box, chest #25
+    1,000
+    Y
+    Thundara Trinket
+    3
+
+    +25%
+
+    Thunder Syphon
+    Lucky Emblem reward, 10 found
+
+    Y
+    Thundaga Trinket
+    4
+
+    +30%
+
+    Thunder Syphon
+    San Fransokyo, chest #12
+
+    Y
+    Thundaza Trinket
+    5
+
+    +35%
+
+    Thunder Syphon
+
+    Y
+    Thunder Chain
+    1
+
+    +50%
+
+    Damage Syphon
+
+    Y
+    Shadow Anklet
+    2
+
+    +20%
+    Dark Syphon
+    Corona, chest #12
+
+    Y
+    Dark Anklet
+    3
+
+    +25%
+    Dark Syphon
+    Arendelle, chest #11
+
+    Y
+    Midnight Anklet
+    4
+
+    +30%
+    Dark Syphon
+    San Fransokyo, chest #30
+
+    Y
+    Chaos Anklet
+    5
+
+    +35%
+    Dark Syphon
+    The Caribbean, chest #44
+
+    Y
+    Dark Chain
+    2
+
+    +50%
+    Damage Syphon
+
+    Y
+    Elven Bandana
+    2
+
+    +20%
+
+    Water Syphon
+    Corona, chest #2
+    1,000
+    Y
+    Divine Bandana
+    4
+
+    +30%
+
+    Water Syphon
+    San Fransokyo, chest #23
+
+    Y
+    Aqua Chaplet
+    1
+
+    +50%
+
+    Damage Syphon
+
+    Y
+    Wind Fan
+    2
+
+    +20%
+
+    Aero Syphon
+    Corona, chest #3
+    1,000
+    Y
+    Storm Fan
+    4
+
+    +30%
+
+    Aero Syphon
+    San Fransokyo, chest #14
+
+    Y
+    Aero Armlet
+    1
+
+    +50%
+
+    Damage Syphon
+
+    Y
+    Abas Chain
+    1
+    +15%
+    +15%
+    +15%
+    +15%
+    +15%
+
+    Toy Box, chest #19
+    1,600
+    N
+    Aegis Chain
+    2
+    +15%
+    +15%
+    +15%
+    +15%
+    +15%
+
+    San Fransokyo, chest #1
+    2,000
+    N
+    Acrisius
+    3
+    +20%
+    +20%
+    +20%
+    +20%
+    +20%
+
+    The Caribbean, chest #16
+
+    Y
+    Acrisius+
+    4
+    +20%
+    +20%
+    +20%
+    +20%
+    +20%
+
+    Y
+    Cosmic Chain
+    5
+    +20%
+    +20%
+    +20%
+    +20%
+    +20%
+
+    Y
+    Petite Ribbon
+    2
+    +20%
+    +20%
+    +20%
+    +20%
+    +20%
+    +20%
+
+    Toy Box, chest #6
+
+    Y
+    Ribbon
+    3
+    +30%
+    +30%
+    +30%
+    +30%
+    +30%
+    +30%
+
+    Lucky Emblem reward, 30 found
+
+    N
+    Royal Ribbon
+    4
+    +40%
+    +40%
+    +40%
+    +40%
+    +40%
+    +40%
+
+    Lucky Emblem reward, 70 found
+
+    N
+    Firefighter Rosette
+    2
+    +20%
+
+    +20%
+    Burn Protection
+    Monstropolis, chest #15
+
+    Y
+    Umbrella Rosette
+    2
+
+    +20%
+
+    +20%
+    Cloud Protection
+    Monstropolis, chest #12
+
+    Y
+    Mask Rosette
+    2
+
+    +20%
+    +20%
+    Sneeze Protection
+    Corona, chest #1
+
+    Y
+    Snowman Rosette
+    2
+
+    +20%
+
+    +20%
+    Freeze Protection
+    Arendelle, chest #12
+
+    Y
+    Insulator Rosette
+    2
+
+    +20%
+
+    +20%
+    Electric Protection
+    The Caribbean, chest #23
+
+    Y
+    Hero's Belt
+    3
+
+    +20%
+    +20%
+    +20%
+
+    Frontline Photographer
+    Herc Statue side quest (Olympus) 
+
+    N
+    Power Weight
+
+    Reward for Data Battle III
+Reward for Data Battle VIII
+Reward for Data Battle X
+(Increases Strength by 3)
+
+    N
+    Hero's Glove
+    4
+    +20%
+    +20%
+
+    +20%
+    Item Boost
+    Rescue Big Hero 6 members during SF story
+
+    N
+    Magic Weight
+
+    Reward for Data Battle V
+Reward for Data Battle VII
+Reward for Data Battle XII
+(Increases Magic by 3)
+
+    N
+    Master Belt
+    7
+
+    +20%
+
+    Reward for Data Battle I
+
+    N
+            -
+4) ACCESSORIES
+    NAME
+    STR
+    MAG
+    AP
+    ABILITIES
+    LOCATION
+    PRICE
+    SYNTH
+    Ability Ring
+    1
+
+    10
+
+    Olympus, chest #5
+    300
+    N
+    Ability Ring+
+    1
+    1
+    14
+
+    Toy Box, chest #20
+
+    Y
+    Technician's Ring
+    1
+    1
+    20
+
+    900
+    N
+    Technician's Ring+
+    2
+    1
+    24
+
+    Monstropolis, chest #3
+
+    Y
+    Skill Ring
+    1
+    1
+    30
+
+    1,100
+    N
+    Skill Ring+
+    2
+    1
+    36
+
+    San Fransokyo, chest #2
+
+    Y
+    Expert's Ring
+    1
+
+    20
+
+    Lucky Emblem reward, 5 found
+
+    N
+    Master's Ring
+    2
+
+    40
+
+    The Caribbean, chest #1
+
+    N
+    Cosmic Ring
+    3
+
+    80
+
+    Y
+    Power Ring
+    2
+
+    2
+
+    Olympus, chest #1
+    500
+    N
+    Buster Ring
+    3
+
+    4
+    Cure Converter
+    Toy Box, chest #23
+    900
+    N
+    Valor Ring
+    4
+
+    6
+    Cure Converter
+    Monstropolis, chest #14
+    1,400
+    N
+    Phantom Ring
+    5
+
+    8
+    Cure Converter
+    San Fransokyo, chest #7
+    1,800
+    Y
+    Orichalcum Ring
+    6
+
+    10
+    Cure Converter
+    Lucky Emblem reward, 60 found
+
+    Y
+    Magic Ring
+
+    2
+    2
+
+    Olympus, chest #18
+    500
+    N
+    Rune Ring
+
+    3
+    4
+    Extra Cast
+    Corona, chest #27
+    900
+    N
+    Force Ring
+
+    4
+    6
+    Full MP Blast
+    Arendelle, chest #6
+    1,400
+    N
+    Sorcerer's Ring
+
+    5
+    8
+    MP Haste
+    The Caribbean, chest #48
+    1,800
+    Y
+    Wisdom Ring
+
+    5
+    10
+    Wizard's Ruse
+    Lucky Emblem reward, 50 found
+
+    Y
+    Soldier's Earring
+    3
+    1
+    6
+    Defender
+    Toy Box, chest #10
+
+    Y
+    Fencer's Earring
+    4
+    2
+    8
+    Defender
+    Monstropolis, chest #5
+
+    Y
+    Mage's Earring
+    1
+    3
+    6
+    Magic Treasure Magnet
+    Corona, chest #13
+
+    Y
+    Slayer's Earring
+    2
+    4
+    8
+    Magic Treasure Magnet
+    Arendelle, chest #24
+
+    Y
+    Bronze Amulet
+    1
+    1
+    7
+    HP Converter
+    Corona, chest #4
+
+    N
+    Silver Amulet
+    1
+    1
+    7
+    MP Converter
+    Arendelle, chest #22
+
+    N
+    Gold Amulet
+    1
+    1
+    7
+    Munny Converter
+    Toy Box, chest #14
+
+    N
+    Moon Amulet
+    2
+    2
+    8
+    Damage Syphon
+    Lucky Emblem reward, 15 found
+
+    Y
+    Star Charm
+    3
+    3
+    10
+    Damage Syphon
+    San Fransokyo, chest #25
+Lucky Emblem reward, 25 found
+
+    Y
+    Cosmic Arts
+    4
+    4
+    12
+    Damage Syphon
+    The Caribbean, chest #7
+
+    N
+    Water Cufflink
+
+    1
+    3
+    Water Boost
+Waterza
+    Olympus, chest #2
+
+    N
+    Thunder Cufflink
+
+    1
+    3
+    Thunder Boost
+Thundaza
+    Monstropolis, chest #8
+
+    N
+    Fire Cufflink
+
+    1
+    3
+    Fire Boost
+Firaza
+    Toy Box, chest #26
+
+    N
+    Aero Cufflink
+
+    1
+    3
+    Aero Boost
+Aeroza
+    Corona, chest #14
+
+    N
+    Blizzard Cufflink
+
+    1
+    3
+    Blizzard Boost
+Blizzaza
+    Arendelle, chest #15
+
+    N
+    Celestriad
+    2
+    3
+    5
+    Fire Boost
+Blizzard Boost
+Thunder Boost
+    The Caribbean, chest #45
+
+    N
+    Yin-Yang Cufflink
+    2
+    3
+    4
+    Water Boost
+Aero Boost
+MP Haste
+    The Caribbean, chest #14
+
+    N
+    Gourmand's Ring
+    1
+    1
+    8
+    Harvester
+Chef Extraordinaire
+    Reach a 1-Star rank at the Bistro
+Twilight Town, potential Postcard prize (once only)
+
+    N
+    Draw Ring
+    1
+    2
+    8
+    Master Treasure Magnet
+
+    Y
+    Lucky Ring
+    1
+    1
+    8
+    Lucky Strike
+    Twilight Town, potential Postcard prize (once only)
+
+    N
+    Forest Clasp
+    2
+    3
+    8
+    HP Walker
+    Obtained during the story in Kingdom of Corona
+
+    N
+    Laughter Pin
+    3
+    2
+    6
+    MP Walker
+    Obtained during the story in Monstropolis
+
+    N
+    Crystal Regalia
+    5
+    5
+    16
+    MP Hastega
+    Reward for completing Battlegate 14 (once only)
+
+    N
+    Mickey Clasp
+    3
+    5
+
+    MP Hastega
+Endless Magic
+    Lucky Emblem reward, all 90 found
+
+    N
+    Flanniversary Badge
+    4
+    4
+
+    MP Hastera
+MP Thrift
+    Reward for meeting all the Flan's high scores
+
+    N
+    Junior Medal
+    1
+    1
+
+    Treasure Magnet
+    Potential B-Rank prize in Verum Rex
+
+    N
+    Junior Medal
+    1
+    1
+
+    Full MP Blast
+    Potential B-Rank prize in Frozen Slider
+
+    N
+    Junior Medal
+    1
+    1
+
+    Burn Protection
+    Potential B-Rank prize in Verum Rex
+
+    N
+    Junior Medal
+    1
+    1
+
+    Cloud Protection
+    Potential B-Rank prize in Verum Rex
+
+    N
+    Junior Medal
+    1
+    1
+
+    Sneeze Protection
+    Potential B-Rank prize in Festival Dance
+
+    N
+    Junior Medal
+    1
+    1
+
+    Freeze Protection
+    Potential B-Rank prize in Frozen Slider
+
+    N
+    Junior Medal
+    1
+    1
+
+    Electric Protection
+    Potential B-Rank prize in Festival Dance
+
+    N
+    Master Medal
+
+    3
+
+    Fire Boost
+    Potential A-Rank prize in Verum Rex
+
+    N
+    Master Medal
+
+    3
+
+    Water Boost
+    Potential A-Rank prize in Festival Dance
+
+    N
+    Master Medal
+    1
+    1
+    6
+    Defender
+    Potential A-Rank prize in Verum Rex
+
+    N
+    Master Medal
+    1
+    1
+    6
+    Extra Cast
+    Potential A-Rank prize in Festival Dance
+
+    N
+    Master Medal
+
+    12
+    Lucky Strike
+    Potential A-Rank prize in Verum Rex
+
+    N
+    Master Medal
+    1
+    1
+    6
+    Magic Treasure Magnet
+    Potential A-Rank prize in Festival Dance
+
+    N
+    Master Medal
+    1
+    1
+    6
+    Stun Protection
+    Potential B-Rank prize in Flash Tracer (Fred course)
+
+    N
+    Master Medal
+    1
+    1
+    6
+    Fire Syphon
+    Potential B-Rank prize in Flash Tracer (Gogo course)
+
+    N
+    Master Medal
+    1
+    1
+    6
+    Blizzard Syphon
+    Potential B-Rank prize in Frozen Slider
+
+    N
+    Master Medal
+    1
+    1
+    6
+    Thunder Syphon
+    Potential B-Rank prize in Flash Tracer (Fred course)
+
+    N
+    Master Medal
+    1
+    1
+    6
+    Water Syphon
+    Potential B-Rank prize in Festival Dance
+
+    N
+    Master Medal
+    1
+    1
+    6
+    Aero Syphon
+    Potential B-Rank prize in Flash Tracer (Gogo course)
+
+    N
+    Star Medal
+
+    4
+
+    Thunder Boost
+    Potential A-Rank prize in Flash Tracer (Fred course)
+
+    N
+    Star Medal
+
+    4
+
+    Blizzard Boost
+    Potential A-Rank prize in Frozen Slider
+
+    N
+    Star Medal
+
+    4
+
+    Aero Boost
+    Potential A-Rank prize in Flash Tracer (Gogo course)
+
+    N
+    Star Medal
+    4
+
+    Second Chance
+    Potential A-Rank prize in Flash Tracer (Fred course)
+
+    N
+    Star Medal
+
+    18
+    Item Boost
+    Potential A-Rank prize in Flash Tracer (Gogo course)
+
+    N
+    Star Medal
+    1
+    1
+    9
+    Wizard's Ruse
+    Potential A-Rank prize in Frozen Slider
+
+    N
+    Star Medal
+    1
+    1
+    9
+    Withstand Combo
+    Potential A-Rank prize in Frozen Slider
+
+    N
+    Star Medal
+    1
+    1
+    9
+    Damage Syphon
+    Potential A-Rank prize in Flash Tracer (Fred course)
+
+    N
+    Star Medal
+    1
+    1
+    9
+    Dark Syphon
+    Potential A-Rank prize in Flash Tracer (Gogo course)
+
+    N
+    Bronze Necklace
+    1
+    1
+    5
+    MP Haste
+    Olympus, chest #6
+
+    N
+    Breakthrough
+    7
+
+    15
+    Cure Converter
+    Reward for Data Battle XIII
+
+    N
+    Crystal Regalia+
+    6
+    6
+    25
+    MP Hastega
+    Reward for clearing SECRET EPISODE
+
+    N
+    Silver Necklace
+    2
+    2
+    10
+    MP Haste
+    The Caribbean, chest #6
+
+    N
+    Master's Necklace
+    3
+    3
+    16
+    MP Haste
+    Lucky Emblem reward, 45 found
+
+    N
+            -
+5) INGREDIENTS / MATERIALS
+Since there are already exhaustive lists for both of these elsewhere
+in the guide, it would be redundant to place them here. For
+Ingredients, please click here. For Materials, please click here.
+            -
+6) KEY ITEMS
+    NAME
+    NOTES
+    LOCATION
+    Gummiphone
+    Used for tracking nearly everything in the game and taking pictures!
+    Obtained automatically after completing Olympus
+    Dream Heartbinder
+    Lets you call on the Dream Eaters' power with a Link command
+    Obtained automatically after completing Olympus
+    Pixel Heartbinder
+    Lets you call on Wreck-It Ralph's power with a Link command
+    After completing Verum Rex for the first time (during the story, Toy
+Box)
+    Pride Heartbinder
+    Lets you call on Simba's power with a Link command
+    During the Monstropolis story (just before the boss)
+    'Ohana Heartbinder
+    Lets you call on Stitch's power with a Link command
+    After completing the Flash Tracer course for the first time (during
+the story, San Fransokyo)
+    Ocean Heartbinder
+    Lets you call on Ariel's power with a Link command
+    In the chest that the Lightning Angler leaves behind (#15) in The
+Caribbean
+    AR Device
+    Creates virtual overlays in San Fransokyo (mostly a plot device)
+    Acquired early on in San Fransokyo
+    M.O.G. Card
+    Unlocks new items at the Moogle Shop
+    Cumulatively spend 10,000 munny at the Moogle Shop over time
+    Prize Postcard
+    Mail in Twilight Town for a random item
+    Randomly obtained after buying at least one item at the Moogle Shop
+and exiting the menu (~50% chance)
+    Golden Herc Figure
+    Trade five of these to the boy in Agora for Hero's Belt
+    See the Olympus Wrap-Up section for maps and descriptions of
+locations
+    Proof of Promises
+    Trade at the Moogle Shop for the Oathkeeper keyblade
+    Obtained by collecting all 90 Lucky Emblems and beating the game
+    Proof of Times Past
+    Trade at the Moogle Shop for the Oblivion keyblade
+    Obtained by beating the game on Critical Mode
+        Previous: Stats &amp; Abilities
+      Next: Trophies / Achievements  
+GameFAQs facebook.com/GFAQs twitter.com/GameFAQsHelp / Contact
+UsChange Colors  
+     Blue (Default)
+      Blue on Black
+      Red
+      Red on Black
+      Green
+      Green on Black
+      Orange
+      Orange on Black
+      Purple
+      Purple on Black
+      Cloudy Blue
+      Grayscale
+      Sepia
+      Cotton Candy
+gamespot.comgiantbomb.commetacritic.comfandom.comfanatical.com
+SitemapPartnershipsCareersTerms of Use
+Privacy PolicyCookie SettingsReport&nbsp;Ad
+© 2024 FANDOM, INC. ALL RIGHTS RESERVED.
+
+-------------------
+Text-only page created by https://toolsyep.com ©2024 ToolsYEP

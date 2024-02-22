@@ -1,0 +1,798 @@
+[
+  {
+    "name": "Ability Ring",
+    "strength": 1,
+    "magic": null,
+    "ap": 10,
+    "abilities": [],
+    "location": ["Olympus, chest #5"],
+    "price": 300,
+    "synthesis": "N"
+  },
+  {
+    "name": "Ability Ring+",
+    "strength": 1,
+    "magic": 1,
+    "ap": 14,
+    "abilities": [],
+    "location": ["Toy Box, chest #20"],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Technician's Ring",
+    "strength": 1,
+    "magic": 1,
+    "ap": 20,
+    "abilities": [],
+    "location": [],
+    "price": 900,
+    "synthesis": "N"
+  },
+  {
+    "name": "Technician's Ring+",
+    "strength": 2,
+    "magic": 1,
+    "ap": 24,
+    "abilities": [],
+    "location": ["Monstropolis, chest #3"],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Skill Ring",
+    "strength": 1,
+    "magic": 1,
+    "ap": 30,
+    "abilities": [],
+    "location": [],
+    "price": 1100,
+    "synthesis": "N"
+  },
+  {
+    "name": "Skill Ring+",
+    "strength": 2,
+    "magic": 1,
+    "ap": 36,
+    "abilities": [],
+    "location": ["San Fransokyo, chest #2"],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Expert's Ring",
+    "strength": 1,
+    "magic": null,
+    "ap": 20,
+    "abilities": [],
+    "location": ["Lucky Emblem reward, 5 found"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master's Ring",
+    "strength": 2,
+    "magic": null,
+    "ap": 40,
+    "abilities": [],
+    "location": ["The Caribbean, chest #1"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Cosmic Ring",
+    "strength": 3,
+    "magic": null,
+    "ap": 80,
+    "abilities": [],
+    "location": [],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Power Ring",
+    "strength": 2,
+    "magic": null,
+    "ap": 2,
+    "abilities": [],
+    "location": ["Olympus, chest #1"],
+    "price": 500,
+    "synthesis": "N"
+  },
+  {
+    "name": "Buster Ring",
+    "strength": 3,
+    "magic": null,
+    "ap": 4,
+    "abilities": ["Cure Converter"],
+    "location": ["Toy Box, chest #23"],
+    "price": 900,
+    "synthesis": "N"
+  },
+  {
+    "name": "Valor Ring",
+    "strength": 4,
+    "magic": null,
+    "ap": 6,
+    "abilities": ["Cure Converter"],
+    "location": ["Monstropolis, chest #14"],
+    "price": 1400,
+    "synthesis": "N"
+  },
+  {
+    "name": "Phantom Ring",
+    "strength": 5,
+    "magic": null,
+    "ap": 8,
+    "abilities": ["Cure Converter"],
+    "location": ["San Fransokyo, chest #7"],
+    "price": 1800,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Orichalcum Ring",
+    "strength": 6,
+    "magic": null,
+    "ap": 10,
+    "abilities": ["Cure Converter"],
+    "location": ["Lucky Emblem reward, 60 found"],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Magic Ring",
+    "strength": null,
+    "magic": 2,
+    "ap": 2,
+    "abilities": [],
+    "location": ["Olympus, chest #18"],
+    "price": 500,
+    "synthesis": "N"
+  },
+  {
+    "name": "Rune Ring",
+    "strength": null,
+    "magic": 3,
+    "ap": 4,
+    "abilities": ["Extra Cast"],
+    "location": ["Corona, chest #27"],
+    "price": 900,
+    "synthesis": "N"
+  },
+  {
+    "name": "Force Ring",
+    "strength": null,
+    "magic": 4,
+    "ap": 6,
+    "abilities": ["Full MP Blast"],
+    "location": ["Arendelle, chest #6"],
+    "price": 1400,
+    "synthesis": "N"
+  },
+  {
+    "name": "Sorcerer's Ring",
+    "strength": null,
+    "magic": 5,
+    "ap": 8,
+    "abilities": ["MP Haste"],
+    "location": ["The Caribbean, chest #48"],
+    "price": 1800,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Wisdom Ring",
+    "strength": null,
+    "magic": 5,
+    "ap": 10,
+    "abilities": ["Wizard's Ruse"],
+    "location": ["Lucky Emblem reward, 50 found"],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Soldier's Earring",
+    "strength": 3,
+    "magic": 1,
+    "ap": 6,
+    "abilities": ["Defender"],
+    "location": ["Toy Box, chest #10"],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Fencer's Earring",
+    "strength": 4,
+    "magic": 2,
+    "ap": 8,
+    "abilities": ["Defender"],
+    "location": ["Monstropolis, chest #5"],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Mage's Earring",
+    "strength": 1,
+    "magic": 3,
+    "ap": 6,
+    "abilities": ["Magic Treasure Magnet"],
+    "location": ["Corona, chest #13"],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Slayer's Earring",
+    "strength": 2,
+    "magic": 4,
+    "ap": 8,
+    "abilities": ["Magic Treasure Magnet"],
+    "location": ["Arendelle, chest #24"],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Bronze Amulet",
+    "strength": 1,
+    "magic": 1,
+    "ap": 7,
+    "abilities": ["HP Converter"],
+    "location": ["Corona, chest #4"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Silver Amulet",
+    "strength": 1,
+    "magic": 1,
+    "ap": 7,
+    "abilities": ["MP Converter"],
+    "location": ["Arendelle, chest #22"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Gold Amulet",
+    "strength": 1,
+    "magic": 1,
+    "ap": 7,
+    "abilities": ["Munny Converter"],
+    "location": ["Toy Box, chest #14"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Moon Amulet",
+    "strength": 2,
+    "magic": 2,
+    "ap": 8,
+    "abilities": ["Damage Syphon"],
+    "location": ["Lucky Emblem reward, 15 found"],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Star Charm",
+    "strength": 3,
+    "magic": 3,
+    "ap": 10,
+    "abilities": ["Damage Syphon"],
+    "location": ["San Fransokyo, chest #25", "Lucky Emblem reward, 25 found"],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Cosmic Arts",
+    "strength": 4,
+    "magic": 4,
+    "ap": 12,
+    "abilities": ["Damage Syphon"],
+    "location": ["The Caribbean, chest #7"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Water Cufflink",
+    "strength": null,
+    "magic": 1,
+    "ap": 3,
+    "abilities": ["Water Boost", "Waterza"],
+    "location": ["Olympus, chest #2"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Thunder Cufflink",
+    "strength": null,
+    "magic": 1,
+    "ap": 3,
+    "abilities": ["Thunder Boost", "Thundaza"],
+    "location": ["Monstropolis, chest #8"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Fire Cufflink",
+    "strength": null,
+    "magic": 1,
+    "ap": 3,
+    "abilities": ["Fire Boost", "Firaza"],
+    "location": ["Toy Box, chest #26"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Aero Cufflink",
+    "strength": null,
+    "magic": 1,
+    "ap": 3,
+    "abilities": ["Aero Boost", "Aeroza"],
+    "location": ["Corona, chest #14"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Blizzard Cufflink",
+    "strength": null,
+    "magic": 1,
+    "ap": 3,
+    "abilities": ["Blizzard Boost", "Blizzaza"],
+    "location": ["Arendelle, chest #15"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Celestriad",
+    "strength": 2,
+    "magic": 3,
+    "ap": 5,
+    "abilities": ["Fire Boost", "Blizzard Boost", "Thunder Boost"],
+    "location": ["The Caribbean, chest #45"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Yin-Yang Cufflink",
+    "strength": 2,
+    "magic": 3,
+    "ap": 4,
+    "abilities": ["Water Boost", "Aero Boost", "MP Haste"],
+    "location": ["The Caribbean, chest #14"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Gourmand's Ring",
+    "strength": 1,
+    "magic": 1,
+    "ap": 8,
+    "abilities": ["Harvester", "Chef Extraordinaire"],
+    "location": [
+      "Reach a 1-Star rank at the Bistro, Twilight Town as potential Postcard prize (once only)"
+    ],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Draw Ring",
+    "strength": 1,
+    "magic": 2,
+    "ap": 8,
+    "abilities": ["Master Treasure Magnet"],
+    "location": [],
+    "price": 0,
+    "synthesis": "Y"
+  },
+  {
+    "name": "Lucky Ring",
+    "strength": 1,
+    "magic": 1,
+    "ap": 8,
+    "abilities": ["Lucky Strike"],
+    "location": ["Twilight Town as potential Postcard prize (once only)"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Forest Clasp",
+    "strength": 2,
+    "magic": 3,
+    "ap": 8,
+    "abilities": ["HP Walker"],
+    "location": ["Obtained during the story in Kingdom of Corona"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Laughter Pin",
+    "strength": 3,
+    "magic": 2,
+    "ap": 6,
+    "abilities": ["MP Walker"],
+    "location": ["Obtained during the story in Monstropolis"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Crystal Regalia",
+    "strength": 5,
+    "magic": 5,
+    "ap": 16,
+    "abilities": ["MP Hastega"],
+    "location": ["Reward for completing Battlegate 14 (once only)"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Mickey Clasp",
+    "strength": 3,
+    "magic": 5,
+    "ap": null,
+    "abilities": ["MP Hastega", "Endless Magic"],
+    "location": ["Lucky Emblem reward, all 90 found"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Flanniversary Badge",
+    "strength": 4,
+    "magic": 4,
+    "ap": null,
+    "abilities": ["MP Hastera", "MP Thrift"],
+    "location": ["Reward for meeting all the Flan's high scores"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Junior Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": null,
+    "abilities": ["Treasure Magnet"],
+    "location": ["Potential B-Rank prize in Verum Rex"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Junior Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": null,
+    "abilities": ["Full MP Blast"],
+    "location": ["Potential B-Rank prize in Frozen Slider"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Junior Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": null,
+    "abilities": ["Burn Protection"],
+    "location": ["Potential B-Rank prize in Verum Rex"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Junior Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": null,
+    "abilities": ["Cloud Protection"],
+    "location": ["Potential B-Rank prize in Verum Rex"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Junior Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": null,
+    "abilities": ["Sneeze Protection"],
+    "location": ["Potential B-Rank prize in Festival Dance"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Junior Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": null,
+    "abilities": ["Freeze Protection"],
+    "location": ["Potential B-Rank prize in Frozen Slider"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Junior Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": null,
+    "abilities": ["Electric Protection"],
+    "location": ["Potential B-Rank prize in Festival Dance"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master Medal",
+    "strength": null,
+    "magic": 3,
+    "ap": null,
+    "abilities": ["Fire Boost"],
+    "location": ["Potential A-Rank prize in Verum Rex"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master Medal",
+    "strength": null,
+    "magic": 3,
+    "ap": null,
+    "abilities": ["Water Boost"],
+    "location": ["Potential A-Rank prize in Festival Dance"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 6,
+    "abilities": ["Defender"],
+    "location": ["Potential A-Rank prize in Verum Rex"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 6,
+    "abilities": ["Extra Cast"],
+    "location": ["Potential A-Rank prize in Festival Dance"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master Medal",
+    "strength": null,
+    "magic": null,
+    "ap": 12,
+    "abilities": ["Lucky Strike"],
+    "location": ["Potential A-Rank prize in Verum Rex"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 6,
+    "abilities": ["Magic Treasure Magnet"],
+    "location": ["Potential A-Rank prize in Festival Dance"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 6,
+    "abilities": ["Stun Protection"],
+    "location": ["Potential B-Rank prize in Flash Tracer (Fred course)"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 6,
+    "abilities": ["Fire Syphon"],
+    "location": ["Potential B-Rank prize in Flash Tracer (Gogo course)"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 6,
+    "abilities": ["Blizzard Syphon"],
+    "location": ["Potential B-Rank prize in Frozen Slider"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 6,
+    "abilities": ["Thunder Syphon"],
+    "location": ["Potential B-Rank prize in Flash Tracer (Fred course)"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 6,
+    "abilities": ["Water Syphon"],
+    "location": ["Potential B-Rank prize in Festival Dance"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 6,
+    "abilities": ["Aero Syphon"],
+    "location": ["Potential B-Rank prize in Flash Tracer (Gogo course)"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Star Medal",
+    "strength": null,
+    "magic": 4,
+    "ap": null,
+    "abilities": ["Thunder Boost"],
+    "location": ["Potential A-Rank prize in Flash Tracer (Fred course)"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Star Medal",
+    "strength": null,
+    "magic": 4,
+    "ap": null,
+    "abilities": ["Blizzard Boost"],
+    "location": ["Potential A-Rank prize in Frozen Slider"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Star Medal",
+    "strength": null,
+    "magic": 4,
+    "ap": null,
+    "abilities": ["Aero Boost"],
+    "location": ["Potential A-Rank prize in Flash Tracer (Gogo course)"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Star Medal",
+    "strength": 4,
+    "magic": null,
+    "ap": null,
+    "abilities": ["Second Chance"],
+    "location": ["Potential A-Rank prize in Flash Tracer (Fred course)"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Star Medal",
+    "strength": null,
+    "magic": null,
+    "ap": 18,
+    "abilities": ["Item Boost"],
+    "location": ["Potential A-Rank prize in Flash Tracer (Gogo course)"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Star Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 9,
+    "abilities": ["Wizard's Ruse"],
+    "location": ["Potential A-Rank prize in Frozen Slider"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Star Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 9,
+    "abilities": ["Withstand Combo"],
+    "location": ["Potential A-Rank prize in Frozen Slider"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Star Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 9,
+    "abilities": ["Damage Syphon"],
+    "location": ["Potential A-Rank prize in Flash Tracer (Fred course)"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Star Medal",
+    "strength": 1,
+    "magic": 1,
+    "ap": 9,
+    "abilities": ["Dark Syphon"],
+    "location": ["Potential A-Rank prize in Flash Tracer (Gogo course)"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Star Medal",
+    "strength": null,
+    "magic": 4,
+    "ap": null,
+    "abilities": [
+      "Thunder Boost",
+      "Blizzard Boost",
+      "Aero Boost",
+      "Second Chance",
+      "Item Boost",
+      "Wizard's Ruse",
+      "Withstand Combo",
+      "Damage Syphon",
+      "Dark Syphon"
+    ],
+    "location": [
+      "Potential A-Rank prize in Flash Tracer (Fred course)",
+      "Potential A-Rank prize in Frozen Slider",
+      "Potential A-Rank prize in Flash Tracer (Gogo course)"
+    ],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Bronze Necklace",
+    "strength": 1,
+    "magic": 1,
+    "ap": 5,
+    "abilities": ["MP Haste"],
+    "location": ["Olympus, chest #6"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Breakthrough",
+    "strength": 7,
+    "magic": null,
+    "ap": 15,
+    "abilities": ["Cure Converter"],
+    "location": ["Reward for Data Battle XIII"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Crystal Regalia+",
+    "strength": 6,
+    "magic": 6,
+    "ap": 25,
+    "abilities": ["MP Hastega"],
+    "location": ["Reward for clearing SECRET EPISODE"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Silver Necklace",
+    "strength": 2,
+    "magic": 2,
+    "ap": 10,
+    "abilities": ["MP Haste"],
+    "location": ["The Caribbean, chest #6"],
+    "price": 0,
+    "synthesis": "N"
+  },
+  {
+    "name": "Master's Necklace",
+    "strength": 3,
+    "magic": 3,
+    "ap": 16,
+    "abilities": ["MP Haste"],
+    "location": ["Lucky Emblem reward, 45 found"],
+    "price": 0,
+    "synthesis": "N"
+  }
+]

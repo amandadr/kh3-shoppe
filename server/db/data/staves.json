@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Mage's Staff",
+    "strength": 3,
+    "magic": 4,
+    "abilities": [],
+    "location": ["Initially equipped"],
+    "price": 0
+  },
+  {
+    "name": "Mage's Staff+",
+    "strength": 3,
+    "magic": 4,
+    "abilities": ["Fire Boost"],
+    "location": ["Toy Box, chest #15"],
+    "price": 0
+  },
+  {
+    "name": "Warhammer",
+    "strength": 5,
+    "magic": 4,
+    "abilities": [],
+    "location": [],
+    "price": 400
+  },
+  {
+    "name": "Warhammer+",
+    "strength": 5,
+    "magic": 4,
+    "abilities": ["Item Boost"],
+    "location": ["Synthesize"],
+    "price": 0
+  },
+  {
+    "name": "Magician's Wand",
+    "strength": 4,
+    "magic": 5,
+    "abilities": [],
+    "location": [],
+    "price": 600
+  },
+  {
+    "name": "Magician's Wand+",
+    "strength": 4,
+    "magic": 6,
+    "abilities": ["Blizzard Boost"],
+    "location": ["Arendelle, chest #23"],
+    "price": 0
+  },
+  {
+    "name": "Nirvana",
+    "strength": 4,
+    "magic": 7,
+    "abilities": [],
+    "location": [],
+    "price": 800
+  },
+  {
+    "name": "Nirvana+",
+    "strength": 4,
+    "magic": 8,
+    "abilities": ["Aero Boost"],
+    "location": ["San Fransokyo, chest #19"],
+    "price": 0
+  },
+  {
+    "name": "Astrolabe",
+    "strength": 6,
+    "magic": 7,
+    "abilities": ["Thunder Boost"],
+    "location": [],
+    "price": 1200
+  },
+  {
+    "name": "Astrolabe+",
+    "strength": 7,
+    "magic": 7,
+    "abilities": ["Thunder Boost", "Full MP Blast"],
+    "location": ["Synthesize"],
+    "price": 0
+  },
+  {
+    "name": "Heartless Maul",
+    "strength": 8,
+    "magic": 6,
+    "abilities": ["Hyper Healing", "Heartless Buster"],
+    "location": ["Synthesize"],
+    "price": 0
+  },
+  {
+    "name": "Heartless Maul+",
+    "strength": 8,
+    "magic": 6,
+    "abilities": ["MP Thrift", "Heartless Buster"],
+    "location": ["Synthesize"],
+    "price": 0
+  },
+  {
+    "name": "Save the Queen",
+    "strength": 6,
+    "magic": 9,
+    "abilities": ["Damage Syphon", "MP Hastera"],
+    "location": ["Synthesize"],
+    "price": 0
+  },
+  {
+    "name": "Save the Queen+",
+    "strength": 6,
+    "magic": 9,
+    "abilities": ["Damage Syphon", "MP Hastega"],
+    "location": ["Synthesize"],
+    "price": 0
+  }
+]

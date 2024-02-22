@@ -1,0 +1,693 @@
+[
+  {
+    "name": "Kupo Coin",
+    "description": "A special coin that protects Sora from the worst. If your HP drops to 0, it will fully restore health a single time.",
+    "chests": null,
+    "locations": null,
+    "price": 400,
+    "synth": "N"
+  },
+  {
+    "name": "Potion",
+    "description": "Restores 80 HP to one teammate. (Equippable)",
+    "chests": {
+      "OLYMPUS": [3, 7, 14, 21, 23, 27, 32],
+      "Toy Box": [7, 22],
+      "Corona": [6, 11]
+    },
+    "locations": ["OLYMPUS: Prize for saving citizens, first visit (2 total)"],
+    "price": 40,
+    "synth": "N"
+  },
+  {
+    "name": "Hi-Potion",
+    "description": "Restores 160 HP to one teammate. (Equippable)",
+    "chests": {
+      "TWILIGHT TOWN": [5],
+      "CORONA": [28],
+      "MONSTROPOLIS": [2, 7, 13],
+      "ARENDELLE": [16],
+      "THE CARIBBEAN": [49]
+    },
+    "locations": ["OLYMPUS: Prize for saving citizens, first visit (1 total)"],
+    "price": 100,
+    "synth": "N"
+  },
+  {
+    "name": "Mega-Potion",
+    "description": "Restores 160 HP to your whole team. (Equippable)",
+    "chests": {
+      "OLYMPUS": [17],
+      "THE CARIBBEAN": [22, 55],
+      "SAN FRANSOKYO": [11, 31],
+      "KEYBLADE GRAVEYARD": [5]
+    },
+    "locations": ["LUCKY EMBLEM REWARD: 3 found"],
+    "price": 0,
+    "synth": "Y"
+  },
+  {
+    "name": "Ether",
+    "description": "Restores 100 MP to one teammate. If you are recharging MP, this restores half the gauge. (Equippable)",
+    "chests": {
+      "OLYMPUS": [16, 19],
+      "TWILIGHT TOWN": [8],
+      "TOY BOX": [9, 12],
+      "CORONA": [18, 25],
+      "MONSTROPOLIS": [18],
+      "THE CARIBBEAN": [56]
+    },
+    "locations": [
+      "OLYMPUS: Prize for saving citizens, first visit (1 total)",
+      "TWILIGHT TOWN: Potential Postcard Prize",
+      "COLLECTOR'S GOAL: Obtain a synthesis material"
+    ],
+    "price": 200,
+    "synth": "Y"
+  },
+  {
+    "name": "Hi-Ether",
+    "description": "Fully restores MP to one teammate. If you are recharging MP, this fully restores the gauge. (Equippable)",
+    "chests": {
+      "OLYMPUS": [12],
+      "TOY BOX": [18],
+      "CORONA": [21],
+      "THE CARIBBEAN": [53],
+      "SAN FRANSOKYO": [17]
+    },
+    "locations": null,
+    "price": 800,
+    "synth": "Y"
+  },
+  {
+    "name": "Mega-Ether",
+    "description": "Fully restores MP to your whole team. (Equippable)",
+    "chests": {
+      "MONSTROPOLIS": [20],
+      "ARENDELLE": [21],
+      "THE CARIBBEAN": [8, 50],
+      "SAN FRANSOKYO": [9, 18],
+      "KEYBLADE GRAVEYARD": [6]
+    },
+    "locations": null,
+    "price": 0,
+    "synth": "Y"
+  },
+  {
+    "name": "Refocuser",
+    "description": "Restores 40% of the Focus Gauge. (Equippable)",
+    "chests": {
+      "OLYMPUS": [26, 30],
+      "TWILIGHT TOWN": [6],
+      "TOY BOX": [11],
+      "CORONA": [8],
+      "MONSTROPOLIS": [4],
+      "ARENDELLE": [17]
+    },
+    "locations": ["TWILIGHT TOWN: Potential Postcard Prize"],
+    "price": 500,
+    "synth": "Y"
+  },
+  {
+    "name": "Hi-Refocuser",
+    "description": "Fully restores the Focus Gauge. (Equippable)",
+    "chests": {
+      "TOY BOX": [27],
+      "MONSTROPOLIS": [22],
+      "THE CARIBBEAN": [46],
+      "SAN FRANSOKYO": [4, 24]
+    },
+    "locations": null,
+    "price": 0,
+    "synth": "Y"
+  },
+  {
+    "name": "Panacea",
+    "description": "Removes all negative status effects from one teammate and provides temporary immunity. (Equippable)",
+    "chests": {
+      "OLYMPUS": [4],
+      "CORONA": [5],
+      "THE CARIBBEAN": [21]
+    },
+    "locations": [
+      "HUNDRED ACRE WOOD: Prize for lowest rank in any of the mini games"
+    ],
+    "price": 20,
+    "synth": "N"
+  },
+  {
+    "name": "Elixir",
+    "description": "Fully restores HP/MP/Focus to one teammate and removes all negative status effects. (Equippable)",
+    "chests": {
+      "OLYMPUS": [31],
+      "TOY BOX": [2],
+      "ARENDELLE": [4],
+      "THE CARIBBEAN": [54],
+      "SAN FRANSOKYO": [13]
+    },
+    "locations": ["BISTRO: Prize for reaching a 3-star rating at the Bistro"],
+    "price": 4000,
+    "synth": "Y"
+  },
+  {
+    "name": "Megalixir",
+    "description": "Fully restores HP/MP/Focus to your whole team and removes all negative status effects. (Equippable)",
+    "chests": {
+      "MONSTROPOLIS": [21],
+      "KEYBLADE GRAVEYARD": [4],
+      "TOY BOX": ["Battlegate 4 prize (1 time only)"],
+      "ARENDELLE": [
+        "Return after this world's story and rebuild Olaf again in the Valley of Ice"
+      ]
+    },
+    "locations": null,
+    "price": 0,
+    "synth": "Y"
+  },
+  {
+    "name": "Tent",
+    "description": "Fully restores HP/MP/Focus to your whole team. Use this item from the menu.",
+    "chests": {
+      "THE CARIBBEAN": [52]
+    },
+    "locations": ["TWILIGHT TOWN: Potential Postcard Prize"],
+    "price": 40,
+    "synth": "N"
+  },
+  {
+    "name": "Strength Boost",
+    "description": "Permanently raises Strength by 1. Use this item from the menu.",
+    "chests": {
+      "TOY BOX": [8],
+      "SAN FRANSOKYO": [29]
+    },
+    "locations": [
+      "LUCKY EMBLEM REWARD: 40 found",
+      "TWILIGHT TOWN: Potential Postcard Prize (1 time only)",
+      "VERUM REX: A-rank (first time only)",
+      "FLASH TRACER (FRED COURSE): A-rank (first time only)",
+      "REWARD: Data Battle IX"
+    ],
+    "price": 0,
+    "synth": "Y"
+  },
+  {
+    "name": "Magic Boost",
+    "description": "Permanently raises Magic by 1. Use this item from the menu.",
+    "chests": {
+      "CORONA": [23],
+      "SAN FRANSOKYO": [16, 28]
+    },
+    "locations": [
+      "LUCKY EMBLEM REWARD: 20 found",
+      "TWILIGHT TOWN: Potential Postcard Prize (1 time only)",
+      "FESTIVAL DANCE: A-rank (first time only)",
+      "Flash Tracer (Gogo Course): A-rank (first time only)",
+      "REWARD: Data Battle VI"
+    ],
+    "price": 0,
+    "synth": "Y"
+  },
+  {
+    "name": "Defense Boost",
+    "description": "Permanently raises Defense by 1. Use this item from the menu.",
+    "chests": {
+      "TWILIGHT TOWN": [10]
+    },
+    "locations": [
+      "LUCKY EMBLEM REWARD: 55 found",
+      "TWILIGHT TOWN: Potential Postcard Prize (1 time only)",
+      "FROZEN SLIDER: A-rank (first time only)",
+      "REWARD: Data Battle II"
+    ],
+    "price": 0,
+    "synth": "Y"
+  },
+  {
+    "name": "AP Boost",
+    "description": "Permanently raises Maximum AP by 1. Use this item from the menu.",
+    "chests": {
+      "OLYMPUS": [8, 10, 13, 22],
+      "TWILIGHT TOWN": [7],
+      "CORONA": [20],
+      "ARENDELLE": [20],
+      "SAN FRANSOKYO": [5, 8, 15, 20, 33]
+    },
+    "locations": [
+      "LUCKY EMBLEM REWARD: 1 found",
+      "TWILIGHT TOWN: Potential Postcard Prize",
+      "REWARD: Data Battle IV",
+      "REWARD: Data Battle XI"
+    ],
+    "price": 0,
+    "synth": "Y"
+  },
+  {
+    "name": "Mushroom Terrine",
+    "description": "A starter that temporarily raises the whole team's Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 100,
+    "synth": "N"
+  },
+  {
+    "name": "Mushroom Terrine+",
+    "description": "A starter that temporarily raises the whole team's Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 200,
+    "synth": "N"
+  },
+  {
+    "name": "Stuffed Quail",
+    "description": "A starter that temporarily raises the whole team's Strength, Defense, and Max HP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 400,
+    "synth": "N"
+  },
+  {
+    "name": "Stuffed Quail+",
+    "description": "A starter that temporarily raises the whole team's Strength, Defense, and Max HP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Filet Mignon Poêlé",
+    "description": "A starter that temporarily raises the whole team's Strength, Defense, and Max HP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Filet Mignon Poêlé+",
+    "description": "A starter that temporarily raises the whole team's Strength, Defense, and Max HP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Chocolate Mousse",
+    "description": "A starter that temporarily raises the whole team's Magic and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 120,
+    "synth": "N"
+  },
+  {
+    "name": "Chocolate Mousse+",
+    "description": "A starter that temporarily raises the whole team's Magic and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 240,
+    "synth": "N"
+  },
+  {
+    "name": "Fresh Fruit Compote",
+    "description": "A starter that temporarily raises the whole team's Magic and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 180,
+    "synth": "N"
+  },
+  {
+    "name": "Fresh Fruit Compote+",
+    "description": "A starter that temporarily raises the whole team's Magic and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Crêpes Suzette",
+    "description": "A starter that temporarily raises the whole team's Magic and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 280,
+    "synth": "N"
+  },
+  {
+    "name": "Crêpes Suzette+",
+    "description": "A starter that temporarily raises the whole team's Magic and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Berries au Fromage",
+    "description": "A starter that temporarily raises the whole team's Magic and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 320,
+    "synth": "N"
+  },
+  {
+    "name": "Berries au Fromage+",
+    "description": "A starter that temporarily raises the whole team's Magic and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Warm Banana Soufflé",
+    "description": "A starter that temporarily raises the whole team's Strength, Magic, and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Warm Banana Soufflé+",
+    "description": "A starter that temporarily raises the whole team's Strength, Magic, and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Fruit Gelée",
+    "description": "A starter that temporarily raises the whole team's Strength, Magic, and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Fruit Gelée+",
+    "description": "A starter that temporarily raises the whole team's Strength, Magic, and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Tarte aux Fruits",
+    "description": "A starter that temporarily raises the whole team's Strength, Magic, and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Tarte aux Fruits+",
+    "description": "A starter that temporarily raises the whole team's Strength, Magic, and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Scallop Poêlé",
+    "description": "A starter that temporarily raises the whole team's Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 140,
+    "synth": "N"
+  },
+  {
+    "name": "Scallop Poêlé+",
+    "description": "A starter that temporarily raises the whole team's Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Ratatouille",
+    "description": "A starter that temporarily raises the whole team's Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 180,
+    "synth": "N"
+  },
+  {
+    "name": "Ratatouille+",
+    "description": "A starter that temporarily raises the whole team's Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Lobster Mousse",
+    "description": "A starter that temporarily raises the whole team's Defense and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 340,
+    "synth": "N"
+  },
+  {
+    "name": "Lobster Mousse+",
+    "description": "A starter that temporarily raises the whole team's Defense and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Caprese Salad",
+    "description": "A starter that temporarily raises the whole team's Magic and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Caprese Salad+",
+    "description": "A starter that temporarily raises the whole team's Magic and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Consommé",
+    "description": "A starter that temporarily raises the whole team's Max HP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 60,
+    "synth": "N"
+  },
+  {
+    "name": "Consommé+",
+    "description": "A starter that temporarily raises the whole team's Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 120,
+    "synth": "N"
+  },
+  {
+    "name": "Pumpkin Velouté",
+    "description": "A starter that temporarily raises the whole team's Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 80,
+    "synth": "N"
+  },
+  {
+    "name": "Pumpkin Velouté+",
+    "description": "A starter that temporarily raises the whole team's Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Carrot Potage",
+    "description": "A starter that temporarily raises the whole team's Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 140,
+    "synth": "N"
+  },
+  {
+    "name": "Carrot Potage+",
+    "description": "A starter that temporarily raises the whole team's Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Crab Bisque",
+    "description": "A starter that temporarily raises the whole team's Magic and Max MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 240,
+    "synth": "N"
+  },
+  {
+    "name": "Crab Bisque+",
+    "description": "A starter that temporarily raises the whole team's Magic and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Cold Tomato Soup",
+    "description": "A starter that temporarily raises the whole team's Magic and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Cold Tomato Soup+",
+    "description": "A starter that temporarily raises the whole team's Magic and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Sole Meunière",
+    "description": "A starter that temporarily raises the whole team's Defense and Max HP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 120,
+    "synth": "N"
+  },
+  {
+    "name": "Sole Meunière+",
+    "description": "A starter that temporarily raises the whole team's Defense and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 240,
+    "synth": "N"
+  },
+  {
+    "name": "Eel Matelote",
+    "description": "A starter that temporarily raises the whole team's Defense and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 160,
+    "synth": "N"
+  },
+  {
+    "name": "Eel Matelote+",
+    "description": "A starter that temporarily raises the whole team's Defense and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Bouillabaisse",
+    "description": "A starter that temporarily raises the whole team's Defense and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 300,
+    "synth": "N"
+  },
+  {
+    "name": "Bouillabaisse+",
+    "description": "A starter that temporarily raises the whole team's Defense and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Sea Bass en Papillote",
+    "description": "A starter that temporarily raises the whole team's Defense and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 300,
+    "synth": "N"
+  },
+  {
+    "name": "Sea Bass en Papillote+",
+    "description": "A starter that temporarily raises the whole team's Defense and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Seafood Tartare",
+    "description": "A starter that temporarily raises the whole team's Strength, Defense, and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Seafood Tartare+",
+    "description": "A starter that temporarily raises the whole team's Strength, Defense, and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Sea Bass Poêlé",
+    "description": "A starter that temporarily raises the whole team's Strength, Defense, and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Sea Bass Poêlé+",
+    "description": "A starter that temporarily raises the whole team's Strength, Defense, and Max HP/MP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Sweetbread Poêlé",
+    "description": "A starter that temporarily raises the whole team's Strength and Max HP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 120,
+    "synth": "N"
+  },
+  {
+    "name": "Sweetbread Poêlé+",
+    "description": "A starter that temporarily raises the whole team's Strength and Max HP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 240,
+    "synth": "N"
+  },
+  {
+    "name": "Beef Sauté",
+    "description": "A starter that temporarily raises the whole team's Strength and Max HP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 140,
+    "synth": "N"
+  },
+  {
+    "name": "Beef Sauté+",
+    "description": "A starter that temporarily raises the whole team's Strength and Max HP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  },
+  {
+    "name": "Beef Bourguignon",
+    "description": "A starter that temporarily raises the whole team's Strength and Max HP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 160,
+    "synth": "N"
+  },
+  {
+    "name": "Beef Bourguignon+",
+    "description": "A starter that temporarily raises the whole team's Strength and Max HP.",
+    "chests": null,
+    "locations": ["Cook at the Bistro"],
+    "price": 0,
+    "synth": "N"
+  }
+]

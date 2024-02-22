@@ -1,0 +1,2 @@
+class Keyblade < ApplicationRecord
+end

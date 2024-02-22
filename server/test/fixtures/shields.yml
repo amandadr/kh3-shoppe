@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  strength: 1
+  fire: 1
+  blizzard: 1
+  thunder: 1
+  water: 1
+  aero: 1
+  dark: 1
+  abilities: MyText
+  location: MyText
+  price: 1
+
+two:
+  name: MyString
+  strength: 1
+  fire: 1
+  blizzard: 1
+  thunder: 1
+  water: 1
+  aero: 1
+  dark: 1
+  abilities: MyText
+  location: MyText
+  price: 1
