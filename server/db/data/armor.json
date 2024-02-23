@@ -38,7 +38,7 @@
     "dark": null,
     "abilities": [],
     "location": ["Arendelle, chest #5"],
-    "price": "1,000",
+    "price": "1000",
     "synthesis": "N"
   },
   {
@@ -52,7 +52,7 @@
     "dark": null,
     "abilities": [],
     "location": [],
-    "price": "1,400",
+    "price": "1400",
     "synthesis": "N"
   },
   {
@@ -125,7 +125,7 @@
     "dark": null,
     "abilities": ["Fire Syphon"],
     "location": ["Toy Box, chest #17"],
-    "price": "1,000",
+    "price": "1000",
     "synthesis": "Y"
   },
   {
@@ -195,7 +195,7 @@
     "dark": null,
     "abilities": ["Blizzard Syphon"],
     "location": ["Arendelle, chest #2"],
-    "price": "1,000",
+    "price": "1000",
     "synthesis": "Y"
   },
   {
@@ -265,7 +265,7 @@
     "dark": null,
     "abilities": ["Thunder Syphon"],
     "location": ["Toy Box, chest #25"],
-    "price": "1,000",
+    "price": "1000",
     "synthesis": "Y"
   },
   {
@@ -405,7 +405,7 @@
     "dark": null,
     "abilities": ["Water Syphon"],
     "location": ["Corona, chest #2"],
-    "price": "1,000",
+    "price": "1000",
     "synthesis": "Y"
   },
   {
@@ -447,7 +447,7 @@
     "dark": null,
     "abilities": ["Aero Syphon"],
     "location": ["Corona, chest #3"],
-    "price": "1,000",
+    "price": "1000",
     "synthesis": "Y"
   },
   {
@@ -489,7 +489,7 @@
     "dark": null,
     "abilities": [],
     "location": ["Toy Box, chest #19"],
-    "price": "1,600",
+    "price": "1600",
     "synthesis": "N"
   },
   {
