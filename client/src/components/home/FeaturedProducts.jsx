@@ -1,6 +1,9 @@
+import "../../styles/Featured.scss";
 import React, { useEffect, useState } from "react";
 import { searchCategory } from "../../helpers/searchProducts";
 import ProductCard from "../products/ProductCard";
+
+import Carousel from "react-material-ui-carousel";
 
 const FeaturedProducts = () => {
   const [featuredProducts, setFeaturedProducts] = useState([]);
@@ -32,12 +35,12 @@ const FeaturedProducts = () => {
 
   return (
     <section className="featured-products">
-      <h2>Featured Products</h2>
-      <div className="featured-products-grid">
+      <h2>Mog's Picks:</h2>
+      <Carousel className="featured-products-grid">
         {featuredProducts.map((product) => (
           <ProductCard key={product.id} product={product} />
         ))}
-      </div>
+      </Carousel>
     </section>
   );
 };

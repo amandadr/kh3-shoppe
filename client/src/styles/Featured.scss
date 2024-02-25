@@ -1,0 +1,40 @@
+@use "base";
+
+.featured-products {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.featured-products-grid {
+  width: 35%;
+  height: 8rem;
+  text-align: center;
+  background-image: url("https://i.pinimg.com/originals/cb/db/30/cbdb30a0685a1a9b46806d511f727f04.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.featured-products-grid h3 {
+  font-size: 1.5rem;
+  margin: 0;
+  padding: 1rem;
+  margin-bottom: -1.25rem;
+}
+
+// Carousel buttons:
+.css-ktslay-MuiButtonBase-root-MuiIconButton-root {
+  background-color: base.$menu-blue !important;
+}
+
+.css-bbreus-MuiButtonBase-root-MuiIconButton-root {
+  color: base.$light-blue !important;
+}
+.css-bbreus-MuiButtonBase-root-MuiIconButton-root:hover {
+  color: base.$dark-blue !important;
+}
+// Current slide button:
+.css-8ucetn-MuiButtonBase-root-MuiIconButton-root {
+  color: base.$menu-blue !important;
+}
