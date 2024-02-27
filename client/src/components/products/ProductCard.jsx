@@ -1,13 +1,18 @@
-const ProductCard = ({ product }) => {
+import "../../styles/Featured.scss";
+
+const ProductCard = ({ product, classPass }) => {
   return (
-    <div className="product-card">
-      <h3>{product.name}</h3>
+    <div className={`product-card ${classPass}`}>
+      <div className="product-card__name">{product.name}</div>
       {product.price > 0 && product.price !== undefined ? (
-        <p>{product.price} munny</p>
+        <div className="product-card__details">
+          <div className="product-card__price">{product.price}</div>
+          <div className="product-card__munny">Munny</div>
+        </div>
       ) : product.synth === "N" || product.synthesis === "N" ? (
-        <p>Unavailable</p>
+        <div className="product-card__details unavailable">Unavailable</div>
       ) : (
-        <p>Synthesize</p>
+        <div className="product-card__details synthesize">Synthesize</div>
       )}
     </div>
   );

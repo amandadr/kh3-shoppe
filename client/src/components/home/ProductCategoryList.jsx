@@ -1,5 +1,7 @@
 import React from "react";
 
+import { Stack, Paper, Button } from "@mui/material";
+
 const categories = [
   "Items",
   "Accessories",
@@ -11,18 +13,23 @@ const categories = [
 
 const ProductCategoryList = ({ selectedCategory, onCategoryChange }) => {
   return (
-    <ul className="product-category-list">
+    <Stack className="product-category-list" spacing={2}>
       {categories.map((category) => (
-        <li key={category}>
-          <button
+        <Paper key={category} className="product-category-list__item">
+          <Button
+            variant="text"
             onClick={() => onCategoryChange(category)}
-            className={selectedCategory === category ? "active" : ""}
+            className={
+              selectedCategory === category
+                ? "product-category__active"
+                : "product-category__inactive"
+            }
           >
             {category}
-          </button>
-        </li>
+          </Button>
+        </Paper>
       ))}
-    </ul>
+    </Stack>
   );
 };
 

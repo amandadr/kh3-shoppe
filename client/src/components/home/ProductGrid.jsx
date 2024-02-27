@@ -1,3 +1,4 @@
+import "../../styles/Home.scss";
 import React from "react";
 import ProductCard from "../products/ProductCard";
 
@@ -7,6 +8,9 @@ import { useItems } from "../../hooks/useItems";
 import { useKeyblades } from "../../hooks/useKeyblades";
 import { useShields } from "../../hooks/useShields";
 import { useStaves } from "../../hooks/useStaves";
+
+import Grid from "@mui/material/Unstable_Grid2";
+import Box from "@mui/material/Box";
 
 const ProductGrid = ({ category }) => {
   const {
@@ -85,11 +89,25 @@ const ProductGrid = ({ category }) => {
   if (error) return <div>Error: {error.message}</div>;
 
   return (
-    <div className="product-grid">
-      {products.map((product) => (
-        <ProductCard key={product.id} product={product} />
-      ))}
-    </div>
+    <Box className="product-grid-container">
+      <div className="product-grid__title">|| {category}</div>
+      <Grid
+        container
+        className="product-grid"
+        rowSpacing={1}
+        columnSpacing={{ xs: 1, sm: 2, md: 3 }}
+      >
+        {products.map((product) => (
+          <Grid xs={5} className="product-grid__item">
+            <ProductCard
+              key={product.id}
+              product={product}
+              classPass={"product-card__grid"}
+            />
+          </Grid>
+        ))}
+      </Grid>
+    </Box>
   );
 };
 

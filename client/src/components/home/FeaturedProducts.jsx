@@ -38,7 +38,11 @@ const FeaturedProducts = () => {
       <h2>Mog's Picks:</h2>
       <Carousel className="featured-products-grid">
         {featuredProducts.map((product) => (
-          <ProductCard key={product.id} product={product} />
+          <ProductCard
+            key={product.id}
+            product={product}
+            classPass="product-card__featured"
+          />
         ))}
       </Carousel>
     </section>

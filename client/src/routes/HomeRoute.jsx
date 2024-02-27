@@ -1,8 +1,10 @@
+import "../styles/Home.scss";
 import React, { useState } from "react";
 import ProductGrid from "../components/home/ProductGrid";
 import Header from "../components/home/Header";
 import Footer from "../components/home/Footer";
 import FeaturedProducts from "../components/home/FeaturedProducts";
+import ProductCategoryList from "../components/home/ProductCategoryList";
 
 const HomeRoute = () => {
   const [selectedCategory, setSelectedCategory] = useState("Items");
@@ -13,12 +15,15 @@ const HomeRoute = () => {
 
   return (
     <div>
-      <Header
-        selectedCategory={selectedCategory}
-        handleCategoryChange={handleCategoryChange}
-      />
+      <Header />
       <FeaturedProducts />
-      <ProductGrid category={selectedCategory} />
+      <div className="products">
+        <ProductCategoryList
+          selectedCategory={selectedCategory}
+          onCategoryChange={handleCategoryChange}
+        />
+        <ProductGrid category={selectedCategory} />
+      </div>
       <Footer />
     </div>
   );
